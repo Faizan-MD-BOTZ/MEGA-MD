@@ -2,7 +2,7 @@
   "name": "mega-md",
   "description": "High performance multi-device WhatsApp bot",
   "keywords": ["whatsapp-bot", "baileys", "mega-md"],
-  "repository": "https://github.com/GlobalTechInfo/MEGA-MD",
+  "repository": "https://github.com/Faizan-MD-BOTZ/MEGA-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
